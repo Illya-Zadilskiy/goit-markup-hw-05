@@ -566,7 +566,7 @@ padding-bottom: 120px;
 
 .footer_subscribe_form {
     display: flex;
-    gap 24px;
+    gap: 24px;
 }
 
 .footer_button {
