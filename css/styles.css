@@ -560,11 +560,11 @@ padding-bottom: 120px;
     fill: #f4f4fd;
 }
 
-.footer_Subscribe {
+.footer_subscribe {
 
 }
 
-.footer_Subscribe_form {
+.footer_subscribe_form {
     display: flex;
     gap 24px;
 }
@@ -587,11 +587,11 @@ padding-bottom: 120px;
     border-radius: 4px;
 }
 
-.footer_Subscribe_label {
+.footer_subscribe_label {
 
 }
 
-.footer_Subscribe_imput {
+.footer_subscribe_imput {
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
@@ -609,7 +609,7 @@ padding-bottom: 120px;
     color: #ffffff;
 }
 
-.footer_Subscribe_p {
+.footer_subscribe_p {
     margin-bottom: 16px;
     font-weight: 500;
     font-size: 16px;
