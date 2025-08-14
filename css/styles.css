@@ -693,3 +693,28 @@ padding-bottom: 120px;
 .rewiew_Vector {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+.rewiew_popup_p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    margin-bottom: 16px;
+}
+
+.rewiew_popup_one {
+    margin-bottom: 8px;
+
+}
+
+.rewiew_popup_label {
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+    display: block;
+    margin-bottom: 4px;
+    
+}
