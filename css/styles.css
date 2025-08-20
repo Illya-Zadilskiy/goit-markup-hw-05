@@ -801,11 +801,15 @@ padding-bottom: 120px;
 
 }
 
+.privacy_policy {
+    color: #4d5ae5;
+}
+
 .rewiew_popup_button {
     display: block;
     min-width: 169px;
     height: 56px;
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
