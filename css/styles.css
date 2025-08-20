@@ -780,9 +780,12 @@ padding-bottom: 120px;
     margin-bottom: 24px;
 }
 
-.visually-hidden:checked .rewiew_popup_samp {
+.visually-hidden:checked + .rewiew_popup_label_for .rewiew_popup_samp {
     background-color: #404bbf;
     border: none;
+}
+
+.visually-hidden:checked+.rewiew_popup_label_for .rewiew_popup_samp .rewiew_popup_for_svg {
     fill: #F4F4FD;
 }
 
